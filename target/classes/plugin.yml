@@ -1,0 +1,6 @@
+name: BossBarAPI
+main: org.inventivetalent.bossbar.BossBarPlugin
+author: inventivetalent
+version: 2.4.3-SNAPSHOT
+
+loadbefore: [BarAPI]
